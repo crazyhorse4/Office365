@@ -1,9 +1,7 @@
 <# CIAOPS
-Script provided as is. Use at own risk. No guarantees or warranty provided.
+
 
 Description - Log into the SharePoint Online portal when multi factor security is enabled
-
-Source - https://github.com/directorcia/Office365/blob/master/o365-connect-mfa-spo.ps1
 
 Prerequisites = 2
 1. Ensure msonline MFA module installed or updated
